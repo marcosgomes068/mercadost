@@ -1,0 +1,10 @@
+/* Arquivo vazio para manter a estrutura, pode ser removido se não houver estilos globais. */
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: #2e7d32; /* verde forte */
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+/* Elementos decorativos de prateleira removidos */
